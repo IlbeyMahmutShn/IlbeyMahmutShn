@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQFdWKocB6_Y_w/profile-displaybackgroundimage-shrink_350_1400/B4EZXXsPNOGYAc-/0/1743080454417?e=1762387200&v=beta&t=dao10bMPM279g4yuvAMoX3T9H47IfdZjpTWXadOluko)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQFdWKocB6_Y_w/profile-displaybackgroundimage-shrink_350_1400/B4EZXXsPNOGYAc-/0/1743080454417?e=1762387200&v=beta&t=dao10bMPM279g4yuvAMoX3T9H47IfdZjpTWXadOluko)
 <h1 align="center">Hi 👋, I'm Mahmut ŞAHİN</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
