@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/v2/D5616AQHVtfvQfImpmg/profile-displaybackgroundimage-shrink_350_1400/B56ZivTTaYH0Ac-/0/1755287730656?e=1762387200&v=beta&t=utQVXnhZak_1bbUCGz_m3ZL2WtTuzrn43TUtr_jrOag
+[![MasterHead]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fza.linkedin.com%2Fin%2Fnathan-chinasamy-255b252a9&psig=AOvVaw0p_8-9NAPuuqDCmkCA5azR&ust=1761136631293000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjOtayntZADFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Mahmut ŞAHİN</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
